@@ -1,0 +1,14 @@
+﻿'Electricity bill counting.exe' (Win32): Loaded 'C:\Users\User\source\repos\Electricity bill counting\Debug\Electricity bill counting.exe'. Symbols loaded.
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3da0 has exited with code 0 (0x0).
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Electricity bill counting.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x1d28 has exited with code 0 (0x0).
+The thread 0x3f68 has exited with code 0 (0x0).
+The program '[14556] Electricity bill counting.exe' has exited with code 0 (0x0).
